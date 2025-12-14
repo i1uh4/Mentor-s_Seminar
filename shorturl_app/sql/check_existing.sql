@@ -1,0 +1,1 @@
+SELECT short_id FROM urls WHERE short_id = ?

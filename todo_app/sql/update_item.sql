@@ -1,0 +1,1 @@
+UPDATE todos SET {updates} WHERE id = ?
